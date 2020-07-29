@@ -26,7 +26,9 @@
 		61CC03E724D1A90C003C22BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61CC03EA24D1A90C003C22BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61CC03EC24D1A90C003C22BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		61CC03F224D1AF71003C22BA /* RxSwiftPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxSwiftPlayground.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		61CC03F424D208CF003C22BA /* PublishSubjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PublishSubjects.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		61CC03F524D2096B003C22BA /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		61CC03F624D20984003C22BA /* Disposing.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Disposing.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9D1C1FCE011180FDA1E0FACD /* Pods_HelloRxSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HelloRxSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBD406F247665D9B8DD5EE08 /* Pods-HelloRxSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloRxSwift.release.xcconfig"; path = "Target Support Files/Pods-HelloRxSwift/Pods-HelloRxSwift.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,7 +66,9 @@
 		61CC03DD24D1A905003C22BA /* HelloRxSwift */ = {
 			isa = PBXGroup;
 			children = (
-				61CC03F224D1AF71003C22BA /* RxSwiftPlayground.playground */,
+				61CC03F624D20984003C22BA /* Disposing.playground */,
+				61CC03F524D2096B003C22BA /* Observable.playground */,
+				61CC03F424D208CF003C22BA /* PublishSubjects.playground */,
 				61CC03DE24D1A905003C22BA /* AppDelegate.swift */,
 				61CC03E024D1A905003C22BA /* SceneDelegate.swift */,
 				61CC03E224D1A905003C22BA /* ViewController.swift */,
