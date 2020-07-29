@@ -1,6 +1,13 @@
 import UIKit
 import RxSwift
 
-_ = Observable.from([1,3,4,5,6])
+let observable = Observable.just(1)
+
+// Create array with different argument
+let observable2 = Observable.of(1,2,3,4)
+
+let observable3 = Observable.of([1,2,3,4])
+
+let observable4 = Observable.from([1,2,3,4])
 
 
