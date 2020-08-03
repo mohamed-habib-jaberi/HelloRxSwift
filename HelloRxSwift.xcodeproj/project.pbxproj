@@ -26,6 +26,7 @@
 		6147FFD824D84CEF00C58F7A /* Skip_FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Skip_FilteringOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6147FFDB24D84F8F00C58F7A /* Skip While_FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Skip While_FilteringOperators.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6147FFDC24D8539F00C58F7A /* SkipUntil_FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SkipUntil_FilteringOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6147FFDD24D8577800C58F7A /* Take_FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Take_FilteringOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		61CC03DB24D1A905003C22BA /* HelloRxSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloRxSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61CC03DE24D1A905003C22BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61CC03E024D1A905003C22BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 				6147FFD824D84CEF00C58F7A /* Skip_FilteringOperators.playground */,
 				6147FFDB24D84F8F00C58F7A /* Skip While_FilteringOperators.playground */,
 				6147FFDC24D8539F00C58F7A /* SkipUntil_FilteringOperators.playground */,
+				6147FFDD24D8577800C58F7A /* Take_FilteringOperators.playground */,
 			);
 			path = "Filtering Operators";
 			sourceTree = "<group>";
