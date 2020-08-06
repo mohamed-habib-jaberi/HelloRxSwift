@@ -22,6 +22,7 @@
 		6147000A24D980F100C58F7A /* Map.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Map.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6147000B24D9824100C58F7A /* Flat Map.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Flat Map.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6147000C24D988F500C58F7A /* Flat Map Latest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Flat Map Latest.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6147003A24DBFA5600C58F7A /* Starts With.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Starts With.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6147FFAC24D2FEB300C58F7A /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6147FFAD24D59AE600C58F7A /* BehaviorRelay.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BehaviorRelay.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6147FFD424D8447300C58F7A /* Ignore_FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Ignore_FilteringOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -71,6 +72,14 @@
 				6147000C24D988F500C58F7A /* Flat Map Latest.playground */,
 			);
 			path = "Transforming Operators";
+			sourceTree = "<group>";
+		};
+		6147003924DB482C00C58F7A /* Combining Operators */ = {
+			isa = PBXGroup;
+			children = (
+				6147003A24DBFA5600C58F7A /* Starts With.playground */,
+			);
+			path = "Combining Operators";
 			sourceTree = "<group>";
 		};
 		6147FFD724D84CAD00C58F7A /* Filtering Operators */ = {
@@ -131,6 +140,7 @@
 		61CC03DD24D1A905003C22BA /* HelloRxSwift */ = {
 			isa = PBXGroup;
 			children = (
+				6147003924DB482C00C58F7A /* Combining Operators */,
 				6147FFDA24D84D8400C58F7A /* Observables */,
 				6147FFD924D84D3500C58F7A /* Subjects */,
 				6147FFD724D84CAD00C58F7A /* Filtering Operators */,
